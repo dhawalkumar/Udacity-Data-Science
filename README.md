@@ -1,4 +1,4 @@
-Data-Science Blog
+Data-Science Blog:
 The link to my data science blog is <a href="https://medium.com/@500061685/best-locations-for-developers-to-work-in-2fdb398fa1be">here</a>
 Libraries
 To be able to run this notebook, you need to install these libraries:
