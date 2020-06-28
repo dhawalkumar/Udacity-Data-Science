@@ -2,6 +2,7 @@ import nltk
 import json
 import plotly
 import pandas as pd
+import joblib
 
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
@@ -10,7 +11,6 @@ nltk.download(['punkt','wordnet'])
 from flask import Flask
 from flask import render_template, request, jsonify
 from plotly.graph_objs import Bar, Histogram
-import joblib
 from sqlalchemy import create_engine
 
 
