@@ -12,6 +12,7 @@ from sklearn.pipeline import Pipeline
 from sqlalchemy import create_engine
 
 import pandas as pd
+import joblib
 import numpy as np
 import pickle
 import nltk
