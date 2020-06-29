@@ -7,9 +7,9 @@ You can check the jupyter notebook in the `Starbucks_Capstone_notebook.ipynb` to
 ---
 
 ## Introduction
-For the Capstone Project, I chose the “Optimizing App Offers With Starbucks” project, which basically trying is to solve the problem on how to send the offer to the right customers.
+For the Capstone Project, I worked upon “Optimizing App Offers With Starbucks” project, which means alalyzing what offers to be sent to what customers.
 
-The complete step by step of my analysis are in the jupyter notebook, the medium article will show you the result of my analysis. For this project, I only focus on analyzing the “unnecessary offer” that was being sent. It is the offer that is sent to the customers, and they didn’t see it, yet somehow they still complete it (the offer completed if the customers spend a certain amount of money in a certain period of time, no matter they saw the offer or not).
+The code through which I alalyzed the data is in `Starbucks_Capstone_notebook.ipynb`. I basically alalyzed what offers among what kind of people are causing the loss of revenue in company. With the observations I came through, I was able to deduce what changes can be made regarding offers. 
 
 ## Questions
 These are the questions I am trying to solve:
@@ -23,6 +23,7 @@ The company is bearing a loss of $49,032 of revenue in a single month and $588,3
 It is also observed that customers who use their offer without viewing have higher average income($71,060) than those who do($67,642).
 
 Female customers generally complete their offers even without viewing them. As observed from the data, the average spending of female customers per transaction is $16,3 compared to male customers with $10,4 only. Thus generally, female customers spend more than male customers.
+
 ## Recommendation and Future Improvements
 The company should be more careful in sending offers to customers, as alone BOGO caused the loss of $31,230.So, the best possible course of action is to limit the BOGO offers by sending them to only a few customers. One of the ways those limited sets of customers can be selected is to analyze which customers have average purchase value more than the price of 2 cups per transaction.
 
