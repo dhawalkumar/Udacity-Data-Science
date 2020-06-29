@@ -9,7 +9,7 @@ You can check the jupyter notebook in the `Starbucks_Capstone_notebook.ipynb` to
 ## Introduction
 For the Capstone Project, I worked upon “Optimizing App Offers With Starbucks” project, which means alalyzing what offers to be sent to what customers.
 
-The code through which I alalyzed the data is in `Starbucks_Capstone_notebook.ipynb`. I basically alalyzed what offers among what kind of people are causing the loss of revenue in company. With the observations I came through, I was able to deduce what changes can be made regarding offers. 
+The code through which I analyzed the data is in `Starbucks_Capstone_notebook.ipynb`. I basically alalyzed what offers among what kind of people are causing the loss of revenue in company. With the observations I came through, I was able to deduce what changes can be made regarding offers. 
 
 ## Questions
 These are the questions I am trying to solve:
